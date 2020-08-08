@@ -6,6 +6,6 @@ public class GitTest {
         System.out.println("hello git");
     }
     public void run(){
-        System.out.println("run");
+        System.out.println("run3123123");
     }
 }
