@@ -12,6 +12,6 @@ public class GitTest {
         System.out.println("run2");
     }
     public void run3(){
-        System.out.println(3212);
+        System.out.println(32121);
     }
 }
