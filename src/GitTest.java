@@ -8,4 +8,7 @@ public class GitTest {
     public void run(){
         System.out.println("run3123123");
     }
+    public void run2(){
+        System.out.println("run2");
+    }
 }
